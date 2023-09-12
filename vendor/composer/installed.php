@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'orsogarcia/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'acdb320c6b164af52334ad91e4794db4f8bad23c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'orsogarcia/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'acdb320c6b164af52334ad91e4794db4f8bad23c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
